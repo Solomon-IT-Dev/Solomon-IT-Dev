@@ -1,6 +1,8 @@
-### Hi there 👋
+![github-profile-header](https://raw.githubusercontent.com/Solomon-IT-Dev/Solomon-IT-Dev/main/github-profile-header.png)
 
 <!--
+### Hi there 👋
+
 **Solomon-IT-Dev/Solomon-IT-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
