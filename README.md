@@ -7,6 +7,7 @@
 - 🚀 The next technology to explore will be Node.js
 - 🤔 I am motivated to apply for a job
 - 😄 Fun fact: my best skill is Googling
+- 📫 How to reach me: Lysenko.inIT@gmail.com
 ##
 
 ### Knows about:
@@ -31,7 +32,6 @@
 
 - 👯 I’m looking to collaborate on ...
 - 💬 Ask me about how to ask...
-- 📫 How to reach me: ...
 
 <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 -->
