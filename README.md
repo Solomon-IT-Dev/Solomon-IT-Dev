@@ -3,8 +3,8 @@
 
 - 👨‍🎓 Now I'm studying at the GoIT academy
 - 🔭 I’m currently working on mastering myself in coding
-- 💻 I’m currently learning React
-- 🚀 The next technology to explore will be Node.js
+- 💻 I’m currently learning Node.js
+- 🚀 The next technology to explore will be TypeScript
 - 🤔 I am motivated to apply for a job
 - 😄 Fun fact: my best skill is Googling
 - 📫 How to reach me: Lysenko.inIT@gmail.com
