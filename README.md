@@ -1,11 +1,12 @@
 ![github-profile-header](https://raw.githubusercontent.com/Solomon-IT-Dev/Solomon-IT-Dev/main/github-profile-header.png)
-## I am future FullStack JavaScript developer 👨‍💻
+## I'm WebUI Software Engineer 👨‍💻
 
-- 👨‍🎓 Now I'm studying at the GoIT academy
-- 🔭 I’m currently working on mastering myself in coding
-- 💻 I’m currently learning Node.js
-- 🚀 The next technology to explore will be TypeScript
-- 🤔 I am motivated to apply for a job
+- 💻 I’m currently working in [Investables](https://investables.org)
+- 👨‍🎓 I graduated from the [GoIT](https://goit.ua/?lang=uk) academy
+- 🔭 In my free time I’m learning React Native...
+- 🛠 ...and mastering myself in coding
+- 🚀 The next technology to explore will be MySQL
+- 🤔 I'm motivated to become a better programmer
 - 😄 Fun fact: my best skill is Googling
 - 📫 How to reach me: Lysenko.inIT@gmail.com
 ##
@@ -15,8 +16,11 @@
 ![css](https://camo.githubusercontent.com/74e6ff495ccdbb5e42f7e5b030c0afbbbcbdbd17952c80d058ef30b8ac73f468/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6373732d3135373242362e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d63737333266c6f676f436f6c6f723d666666)
 ![sass](https://camo.githubusercontent.com/aecc12e348cda10443c4ba3713175c21c25c7880d3de0f1b686f74891a7b53c5/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f736173732d4346363439412e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d73617373266c6f676f436f6c6f723d666666)
 ![js](https://camo.githubusercontent.com/aeddc848275a1ffce386dc81c04541654ca07b2c43bbb8ad251085c962672aea/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6a6176617363726970742d2532333332333333302e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d6a617661736372697074266c6f676f436f6c6f723d253233463744463145)
+![typescript](https://img.shields.io/badge/typescript-whitesmoke?style=for-the-badge&logo=typescript)
 ![react](https://camo.githubusercontent.com/ab4c3c731a174a63df861f7b118d6c8a6c52040a021a552628db877bd518fe84/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656163742d2532333230323332612e7376673f7374796c653d666f722d7468652d6261646765266c6f676f3d7265616374266c6f676f436f6c6f723d253233363144414642)
+![next](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js)
 ![redux](https://camo.githubusercontent.com/9bb2580411576db130fee2e51a0d2f6187563d00eff4ff80b5aba8b97de5fbd2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656475782d3736344142432e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d7265647578266c6f676f436f6c6f723d666666)
+![mui](https://img.shields.io/badge/material-ui-whitesmoke?style=for-the-badge&logo=mui)
 ![node](https://camo.githubusercontent.com/cc96d7d28a6ca21ddbb1f2521d751d375230ed840271e6a4c8694cf87cc60c14/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6f64652e6a732532302d2532333433383533442e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465)
 ![express](https://img.shields.io/badge/express-lightgrey?style=for-the-badge&logo=express)
 ![mongodb](https://img.shields.io/badge/mongodb-grey?style=for-the-badge&logo=mongodb)
