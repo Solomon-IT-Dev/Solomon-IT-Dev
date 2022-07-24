@@ -22,7 +22,7 @@
 ![redux](https://camo.githubusercontent.com/9bb2580411576db130fee2e51a0d2f6187563d00eff4ff80b5aba8b97de5fbd2/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f72656475782d3736344142432e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d7265647578266c6f676f436f6c6f723d666666)
 ![mui](https://img.shields.io/badge/materialui-whitesmoke?style=for-the-badge&logo=mui)
 ![node](https://camo.githubusercontent.com/cc96d7d28a6ca21ddbb1f2521d751d375230ed840271e6a4c8694cf87cc60c14/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f6e6f64652e6a732532302d2532333433383533442e7376673f267374796c653d666f722d7468652d6261646765266c6f676f3d6e6f64652e6a73266c6f676f436f6c6f723d7768697465)
-![express](https://img.shields.io/badge/express-lightgrey?style=for-the-badge&logo=express)
+![express](https://img.shields.io/badge/express-slategray?style=for-the-badge&logo=express)
 ![mongodb](https://img.shields.io/badge/mongodb-grey?style=for-the-badge&logo=mongodb)
 ##
 
