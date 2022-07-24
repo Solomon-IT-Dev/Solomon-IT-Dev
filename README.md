@@ -36,8 +36,8 @@
 ##
 
 ### Stats:
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Solomon-it-dev&layout=compact)
-<img height="165em" src="https://github-readme-stats.vercel.app/api?username=Solomon-it-dev&show_icons=true" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=solomon-it-dev&layout=compact&theme=ayu-mirage)](https://github.com/anuraghazra/github-readme-stats)
+<img height="165em" src="https://github-readme-stats.vercel.app/api?username=solomon-it-dev&show_icons=true&layout=compact&theme=ayu-mirage" />
 
 <!--
 **Solomon-IT-Dev/Solomon-IT-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
