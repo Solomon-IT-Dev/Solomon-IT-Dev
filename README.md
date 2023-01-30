@@ -32,6 +32,7 @@
 ![gitlab](https://img.shields.io/badge/gitlab-rebeccapurple?style=for-the-badge&logo=gitlab)
 ![vscode](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
+![webflow](https://img.shields.io/badge/webflow-white.svg?style=for-the-badge&logo=webflow&logoColor=royalblue)
 ![postman](https://img.shields.io/badge/postman-gray?style=for-the-badge&logo=postman)
 ##
 
