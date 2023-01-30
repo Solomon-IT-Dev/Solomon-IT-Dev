@@ -43,6 +43,8 @@
 <!--
 **Solomon-IT-Dev/Solomon-IT-Dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
+<img src="https://komarev.com/ghpvc/?username=Solomon-IT-Dev&style=flat-square&color=blue" alt="Profile views"/>
+
 - 👯 I’m looking to collaborate on ...
 - 💬 Ask me about how to ask...
 -->
