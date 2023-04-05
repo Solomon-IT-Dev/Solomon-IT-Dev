@@ -19,7 +19,8 @@
 ![typescript](https://img.shields.io/badge/typescript-whitesmoke?style=for-the-badge&logo=typescript)
 ![react](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![next](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js)
-![redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white) 
+![redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
+![webflow](https://img.shields.io/badge/webflow-white.svg?style=for-the-badge&logo=webflow&logoColor=royalblue)
 ![mui](https://img.shields.io/badge/material%20ui-whitesmoke?style=for-the-badge&logo=mui)
 ![nodejs](https://img.shields.io/badge/node.js%20-%2343853D.svg?&style=for-the-badge&logo=node.js&logoColor=white)
 ![express](https://img.shields.io/badge/express-slategray?style=for-the-badge&logo=express&logoColor=black)
@@ -33,7 +34,6 @@
 ![gitlab](https://img.shields.io/badge/gitlab-rebeccapurple?style=for-the-badge&logo=gitlab)
 ![vscode](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)
-![webflow](https://img.shields.io/badge/webflow-white.svg?style=for-the-badge&logo=webflow&logoColor=royalblue)
 ![postman](https://img.shields.io/badge/postman-gray?style=for-the-badge&logo=postman)
 ##
 
