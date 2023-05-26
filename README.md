@@ -18,6 +18,7 @@
 ![javascript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) 
 ![typescript](https://img.shields.io/badge/typescript-whitesmoke?style=for-the-badge&logo=typescript)
 ![react](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
+![react-native](https://img.shields.io/badge/react%20native-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) 
 ![next](https://img.shields.io/badge/next.js-black?style=for-the-badge&logo=next.js)
 ![redux](https://img.shields.io/badge/redux-%23593d88.svg?style=for-the-badge&logo=redux&logoColor=white)
 ![webflow](https://img.shields.io/badge/webflow-white.svg?style=for-the-badge&logo=webflow&logoColor=royalblue)
